@@ -12,10 +12,10 @@ import java.util.*;
 В единственную строку выходного файла OUTPUT.TXT нужно вывести одно целое число — сумму чисел А и В.
 
 Пример
-INPUT.TXT
-2 3
-OUTPUT.TXT
-5
+INPUT.TXT  OUTPUT.TXT
+2 3          5
+
+https://acmp.ru/?main=task&id_task=1
 */
 
 public class APlusB {

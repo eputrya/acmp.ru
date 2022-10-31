@@ -26,11 +26,12 @@ import java.util.*;
 Выходные данные:
 В выходной файл OUTPUT.TXT нужно вывести значение полученной Васей разности.
 
-INPUT.TXT
-5
+INPUT.TXT  OUTPUT.TXT
+5            594
+2            297
+7            792
 
-OUTPUT.TXT
-594
+https://acmp.ru/?main=task&id_task=4
  */
 
 public class Game {

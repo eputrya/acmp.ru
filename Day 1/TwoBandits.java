@@ -19,10 +19,10 @@ import java.util.*;
 Выходные данные:
 В файл OUTPUT.TXT выведите 2 числа — количество банок, не простреленных Гарри и Ларри соответственно.
 
-INPUT.TXT
-4 7
-OUTPUT.TXT
-6 3
+INPUT.TXT  OUTPUT.TXT
+4 7          6 3
+
+https://acmp.ru/?main=task&id_task=33
  */
 
 public class TwoBandits {

@@ -24,12 +24,12 @@ https://acmp.ru/?main=task&id_task=92
 
 public class Cranes {
     void solve(Scanner in, PrintWriter out) {
-        int count = in.nextInt();
-        int countPetya = (count / 3) / 2;
-        int countKatya = count - count/3;
-        int countSergey = countPetya;
+        int amount = in.nextInt();
+        int amountPetya = (amount / 3) / 2;
+        int amountKatya = amount - amount/3;
+        int amountSergey = amountPetya;
 
-        System.out.println(countPetya + " " + countKatya + " " + countSergey);
+        System.out.println(amountPetya + " " + amountKatya + " " + amountSergey);
     }
 
     void run() {

@@ -31,10 +31,10 @@ https://acmp.ru/?main=task&id_task=195
 
 public class Enya {
     void solve(Scanner in, PrintWriter out) {
-        int count = in.nextInt();
+        int amount = in.nextInt();
         int length = in.nextInt();
         int width = in.nextInt();
-        int S = (length * width * count) * 2;
+        int S = (length * width * amount) * 2;
         System.out.println(S);
     }
 

@@ -29,8 +29,8 @@ public class TwoBandits {
     void solve(Scanner in, PrintWriter out) {
         int firstBandit = in.nextInt();
         int secondBandet = in.nextInt();
-        int count = firstBandit + secondBandet - 1;
-        System.out.println((count - firstBandit) + " " + (count - secondBandet));
+        int amount = firstBandit + secondBandet - 1;
+        System.out.println((amount - firstBandit) + " " + (amount - secondBandet));
     }
 
     void run() {

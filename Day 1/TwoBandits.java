@@ -28,9 +28,9 @@ https://acmp.ru/?main=task&id_task=33
 public class TwoBandits {
     void solve(Scanner in, PrintWriter out) {
         int firstBandit = in.nextInt();
-        int secondBandet = in.nextInt();
-        int amount = firstBandit + secondBandet - 1;
-        System.out.println((amount - firstBandit) + " " + (amount - secondBandet));
+        int secondBandit = in.nextInt();
+        int amount = firstBandit + secondBandit - 1;
+        System.out.println((amount - firstBandit) + " " + (amount - secondBandit));
     }
 
     void run() {

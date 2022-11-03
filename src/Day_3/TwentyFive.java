@@ -30,7 +30,7 @@ https://acmp.ru/?main=task&id_task=3
 public class TwentyFive {
     void solve(Scanner in, PrintWriter out) {
         long digit = in.nextLong();
-        long result = (digit/10 * (digit/10+1)) * 100 + 25;
+        long result = (digit / 10 * (digit / 10 + 1)) * 100 + 25;
         System.out.println(result);
     }
 

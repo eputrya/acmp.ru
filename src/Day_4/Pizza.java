@@ -20,6 +20,7 @@ import java.util.*;
 INPUT.TXT	OUTPUT.TXT
 2	            4
 3	            7
+
 https://acmp.ru/?main=task&id_task=554
  */
 
